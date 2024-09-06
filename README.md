@@ -6,5 +6,6 @@ I am interested in A.I, Machine Learning, Web Development, and learning new prog
 
 You can reach me through the following:
 email: elsayednadeem.ne@gmail.com
+
 linkedin: www.linkedin.com/in/nadeem-elsayed-b63828290/
 
