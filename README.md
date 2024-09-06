@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Nadeem-Elsayed
-
+- 👋 Hi, I’m Nadeem Elsayed
 
 I’m currently studying Software Engineering at the University of McMaster.
 
