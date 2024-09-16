@@ -10,5 +10,5 @@ Linktree: linktr.ee/NadeemElsayed
 
 email: elsayednadeem.ne@gmail.com
 
-linkedin: www.linkedin.com/in/nadeem-elsayed-b63828290/
+linkedin: linkedin.com/in/nadeem-elsayed-b63828290/
 
