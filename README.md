@@ -2,7 +2,7 @@
 
 I’m currently studying Software Engineering at the University of McMaster.
 
-I am interested in A.I, Machine Learning, Web Development, and learning new programming languages.
+I am interested in Embedded Software, A.I, Machine Learning, Web Development, and learning new programming languages.
 
 You can reach me through the following:
 
