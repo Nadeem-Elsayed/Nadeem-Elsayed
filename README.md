@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **GO, React, C, OOP in Java, and Verilog**
 
-- 👨‍💻 You can know more about me here: [https://linktr.ee/NadeemElsayed](https://linktr.ee/NadeemElsayed)
+- 👨‍💻 You can know more about me on my [linktree](https://linktr.ee/NadeemElsayed)
 
 - 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **elsayednadeem.ne@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yaZ4RjX2Hnf7IxgwnEBQpg5OQFKcVXP9/view?usp=sharing](https://drive.google.com/file/d/1yaZ4RjX2Hnf7IxgwnEBQpg5OQFKcVXP9/view?usp=sharing)
+- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1VovroFABI8eou1e_NqCvL0M7wo0PXvoQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
