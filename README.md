@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nadeem</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
-- 🔭 I’m currently working on **a personal portfolio**
+
+
+- 🔭 I’m currently studying Software Engineering at the University of McMaster.
+- I am interested in Embedded Software, A.I, Machine Learning, Web Development, and learning new programming languages.
 
 - 🌱 I’m currently learning **GO, React, C, OOP in Java, and Verilog**
 
