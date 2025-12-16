@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nadeem</h1>
+<h1 align="center">Hi, I'm Nadeem</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
 
 
-- 🔭 I’m currently studying Software Engineering at the University of McMaster.
-- I am interested in Embedded Software, A.I, Machine Learning, Web Development, and learning new programming languages.
+-  I’m currently studying Software Engineering at the University of McMaster.
+-  I am interested in Embedded Software, A.I, Machine Learning, Web Development, game development and learning new programming languages.
 
-- 🌱 I’m currently learning **GO, React, C, OOP in Java, and Verilog**
+-  I’m currently learning **GO, React, C, OOP in Java, and Verilog**
 
-- 👨‍💻 You can know more about me on my [linktree](https://linktr.ee/NadeemElsayed)
+-  You can know more about me on my [linktree](https://linktr.ee/NadeemElsayed)
 
-- 💬 Ask me about **Java and Python**
+-  Ask me about **Java and Python**
 
-- 📫 How to reach me **elsayednadeem.ne@gmail.com**
+-  How to reach me **elsayednadeem.ne@gmail.com**
 
-- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/18Pz0daopYAk3sB7_hXBl0NlyTiRvCL5h/view?usp=sharing)
+-  Know about my experiences on my [Resume](https://drive.google.com/file/d/18Pz0daopYAk3sB7_hXBl0NlyTiRvCL5h/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
